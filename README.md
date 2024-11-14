@@ -1,19 +1,19 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ali 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social) ![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ali-shakeel-dev?style=social) ![GitHub stars](https://img.shields.io/github/stars/ali-shakeel-dev?style=social)
 
-🌐 [Website](https://your-website.com) • 💼 [LinkedIn](https://linkedin.com/in/your-profile) • 🐦 [Twitter](https://twitter.com/your-twitter) • 📧 [Email Me](mailto:your-email@example.com)
+🌐 [Website](https://alishakeel.site/) • 💼 [LinkedIn](https://linkedin.com/in/muhammad-ali-shakeel) • 📧 [Email Me](mailto:muhammadalishakeel77@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
-Hello! I'm [Your Name], a passionate **Full Stack Developer** and **SEO Specialist** from [Your Country]. With a strong background in both front-end and back-end development, I love building web applications that are user-friendly, scalable, and optimized for search engines.
+Hello! I'm Ali, a passionate **Full Stack Developer** and **SEO Specialist** from Pakistan. With a strong background in both front-end and back-end development, I love building web applications that are user-friendly, scalable, and optimized for search engines.
 
 - 🔭 I’m currently working on: `Your current project`
-- 🌱 I’m learning: `Latest tech or skill`
+- 🌱 I’m learning: `Full-Stack Development`
 - 💬 Ask me about: `Ruby on Rails`, `React`, `SEO`, and `Full Stack Development`
-- ⚡ Fun fact: I'm a huge fan of [Hobby or Interest]!
+- ⚡ Fun fact: I learn more from failures than successes
 
 ---
 
