@@ -10,7 +10,7 @@
 
 Hello! I'm Ali, a passionate **Full Stack Developer** and **SEO Specialist** from Pakistan. With a strong background in both front-end and back-end development, I love building web applications that are user-friendly, scalable, and optimized for search engines.
 
-- 🔭 I’m currently working on: `Your current project`
+- 🔭 Dedicated to building fully functional web applications
 - 🌱 I’m learning: `Full-Stack Development`
 - 💬 Ask me about: `Ruby on Rails`, `React`, `SEO`, and `Full Stack Development`
 - ⚡ Fun fact: I learn more from failures than successes
@@ -45,19 +45,11 @@ Hello! I'm Ali, a passionate **Full Stack Developer** and **SEO Specialist** fro
 
 ## 📂 Featured Projects
 
-### [Project Name 1](https://github.com/your-username/project-1)
-A brief description of this project. What technologies did you use? What problem does it solve? Highlight any unique features!
+### [Mindmap]([https://github.com/your-username/project-1](https://github.com/ali-shakeel-dev/mind-map))
+MindFlow is an intuitive mind mapping tool built with HTML, CSS, and JavaScript. The app allows users to visually organize ideas by creating, modifying, and connecting nodes in a dynamic, interactive interface. 
 
-### [Project Name 2](https://github.com/your-username/project-2)
-Another description. Make it catchy! Explain what you built, any challenges you faced, and how others might benefit from this project.
-
----
-
-## ✍️ Latest Blog Posts
-
-- [Blog Post 1 Title](https://yourblog.com/blog1)
-- [Blog Post 2 Title](https://yourblog.com/blog2)
-- [Blog Post 3 Title](https://yourblog.com/blog3)
+### [Hyphan]([https://github.com/your-username/project-2](https://github.com/ali-shakeel-dev/hyfhan))
+Hyphan provides two powerful productivity tools: a Pomodoro Timer to enhance focus during work sessions and a To-Do Task Manager for organizing daily tasks. 
 
 ---
 
@@ -65,10 +57,9 @@ Another description. Make it catchy! Explain what you built, any challenges you 
 
 I'm always excited to connect with fellow developers, designers, and SEO enthusiasts. Feel free to reach out or follow me on social media:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-shakeel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalishakeel77@gmail.com)
 
 ---
 
-⭐️ **If you like my work, feel free to star the repositories or follow my profile!** ⭐️
+⭐️ **If you like my work, feel free to star the repositories or follow my profile** ⭐️
