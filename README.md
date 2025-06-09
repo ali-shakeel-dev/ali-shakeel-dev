@@ -1,4 +1,4 @@
-# Hi there, I'm Ali 👋
+# Hey there, I'm Ali 🤵
 
 ![GitHub followers](https://img.shields.io/github/followers/ali-shakeel-dev?style=social) ![GitHub stars](https://img.shields.io/github/stars/ali-shakeel-dev?style=social)
 
@@ -8,12 +8,11 @@
 
 ## 🚀 About Me
 
-Hello! I'm Ali, a passionate **Full Stack Developer** and **SEO Specialist** from Pakistan. With a strong background in both front-end and back-end development, I love building web applications that are user-friendly, scalable, and optimized for search engines.
+A **Full Stack Dev** with **SEO** skills. I build cool stuff for the web that actually works (most of the time) and try to make sure people can find it too (hello, SEO).
 
 - 🔭 Dedicated to building fully functional web applications
 - 🌱 I’m learning: `Full-Stack Development`
-- 💬 Ask me about: `Ruby on Rails`, `React`, `SEO`, and `Full Stack Development`
-- ⚡ Fun fact: I learn more from failures than successes
+- 💬 Ask me about: `Ruby on Rails`, `React`, or why your site isn’t ranking
 
 ---
 
@@ -26,7 +25,7 @@ Hello! I'm Ali, a passionate **Full Stack Developer** and **SEO Specialist** fro
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Tools & Platforms**
+**Tools**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -62,4 +61,4 @@ I'm always excited to connect with fellow developers, designers, and SEO enthusi
 
 ---
 
-⭐️ **If you like my work, feel free to star the repositories or follow my profile** ⭐️
+⭐️ **If you like this project, feel free to star it or follow me!** 😊
