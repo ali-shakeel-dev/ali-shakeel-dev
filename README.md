@@ -1,64 +1,68 @@
-# Hey there, I'm Ali 🤵
+# Hi, I’m Ali Shakeel 👋
 
-![GitHub followers](https://img.shields.io/github/followers/ali-shakeel-dev?style=social) ![GitHub stars](https://img.shields.io/github/stars/ali-shakeel-dev?style=social)
+Full-stack engineer building web applications with **Ruby on Rails** and **React JS**.
 
-🌐 [Website](https://alishakeel.site/) • 💼 [LinkedIn](https://linkedin.com/in/muhammad-ali-shakeel) • 📧 [Email Me](mailto:muhammadalishakeel77@gmail.com)
+I work across backend and frontend, from designing APIs and databases to building clean, usable interfaces. I enjoy building products from scratch, improving existing systems, and fixing production issues.
 
----
-
-## 🚀 About Me
-
-A **Full Stack Dev** with **SEO** skills. I build cool stuff for the web that actually works (most of the time) and try to make sure people can find it too (hello, SEO).
-
-- 🔭 Dedicated to building fully functional web applications
-- 🌱 I’m learning: `Full-Stack Development`
-- 💬 Ask me about: `Ruby on Rails`, `React`, or why your site isn’t ranking
+↳ [Website](https://alishakeel.netlify.app/)  
+↳ [LinkedIn](https://linkedin.com/in/muhammad-ali-shakeel)  
+↳ [Email](mailto:muhammadalishakeel77@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-**Languages & Frameworks**
+- Full-stack developer focused on Rails and React  
+- Comfortable owning projects end-to-end  
+- Experience working on real-world codebases  
+- I value clean code, simple solutions, and maintainability  
 
-![Ruby](https://img.shields.io/badge/Ruby-DD0031?style=for-the-badge&logo=ruby&logoColor=white) 
-![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Tools**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+My day-to-day work includes **Ruby on Rails, PostgreSQL, React, Tailwind**, and deploying apps on **AWS, Heroku, Render, and Railway**.
 
 ---
 
-## 📈 GitHub Stats
+## Tech Stack
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-shakeel-dev&show_icons=true&theme=radical)
+**Backend**
+- Ruby  
+- Ruby on Rails  
+- REST APIs  
+- PostgreSQL  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-shakeel-dev&layout=compact&theme=radical)
+**Frontend**
+- React  
+- JavaScript  
+- Tailwind CSS  
+- HTML & CSS  
 
----
-
-## 📂 Featured Projects
-
-### [Mindmap]([https://github.com/your-username/project-1](https://github.com/ali-shakeel-dev/mind-map))
-MindFlow is an intuitive mind mapping tool built with HTML, CSS, and JavaScript. The app allows users to visually organize ideas by creating, modifying, and connecting nodes in a dynamic, interactive interface. 
-
-### [Hyphan]([https://github.com/your-username/project-2](https://github.com/ali-shakeel-dev/hyfhan))
-Hyphan provides two powerful productivity tools: a Pomodoro Timer to enhance focus during work sessions and a To-Do Task Manager for organizing daily tasks. 
-
----
-
-## 💬 Let's Connect!
-
-I'm always excited to connect with fellow developers, designers, and SEO enthusiasts. Feel free to reach out or follow me on social media:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-shakeel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalishakeel77@gmail.com)
+**Tools & Cloud**
+- Git & GitHub  
+- AWS  
+- Heroku  
+- Render / Railway  
 
 ---
 
-⭐️ **If you like this project, feel free to star it or follow me!** 😊
+## Recent Projects
+
+### FeatureFlow
+A lightweight customer feedback and product roadmap tool inspired by Canny.io.  
+Built with **Rails and React**, featuring idea submission, voting, and a simple admin dashboard.
+
+### Drafted
+A structured resume builder that generates clean, versioned PDFs from structured data.
+
+### Event Spaces Management
+A web app for browsing, listing, and booking event venues for weddings, parties, and conferences.
+
+---
+
+## Open To
+
+- Remote roles  
+- Freelance or contract work  
+- Long-term collaborations  
+
+I write code that’s easy to read, easy to maintain, and easy for other developers to work with.
+
+Thanks
