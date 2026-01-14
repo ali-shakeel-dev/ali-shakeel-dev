@@ -8,16 +8,6 @@ Full-stack developer building web applications with Ruby on Rails and React JS, 
 ↳ **Drafted**: resume builder that outputs clean PDFs  
 ↳ **Event Spaces**: a platform for booking wedding and event venues
 
-#### `Contact Me`
-
-Open to remote full-time roles or contract gigs. Happy to jump into existing codebases or start something new.
-
-I care about code that's easy to read and doesn't make the next person suffer.
-
-↳ *[alishakeel.netlify.app](https://alishakeel.netlify.app/)*  
-↳ *[LinkedIn](https://linkedin.com/in/muhammad-ali-shakeel)*  
-↳ *[muhammadalishakeel77@gmail.com](mailto:muhammadalishakeel77@gmail.com)*
-
 #### `Tech Stack`
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,3 +24,13 @@ I care about code that's easy to read and doesn't make the next person suffer.
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+#### `Contact Me`
+
+Open to remote full-time roles or contract gigs. Happy to jump into existing codebases or start something new.
+
+I care about code that's easy to read and doesn't make the next person suffer.
+
+↳ *[alishakeel.netlify.app](https://alishakeel.netlify.app/)*  
+↳ *[LinkedIn](https://linkedin.com/in/muhammad-ali-shakeel)*  
+↳ *[muhammadalishakeel77@gmail.com](mailto:muhammadalishakeel77@gmail.com)*
