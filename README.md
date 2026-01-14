@@ -1,68 +1,36 @@
-# Hi, I’m Ali Shakeel 👋
+# `Hey, I'm Ali`
 
-Full-stack engineer building web applications with **Ruby on Rails** and **React JS**.
+Full-stack developer building web applications with Ruby on Rails and React JS, working across backend and frontend. I design APIs and databases, build clean, usable interfaces, ship products from scratch, improve existing systems, and fix production issues when things break.
 
-I work across backend and frontend, from designing APIs and databases to building clean, usable interfaces. I enjoy building products from scratch, improving existing systems, and fixing production issues.
+#### `Stuff I've Built Recently`
 
-↳ [Website](https://alishakeel.netlify.app/)  
-↳ [LinkedIn](https://linkedin.com/in/muhammad-ali-shakeel)  
-↳ [Email](mailto:muhammadalishakeel77@gmail.com)
+↳ **FeatureFlow**: feedback and roadmap tool like Canny.io  
+↳ **Drafted**: resume builder that outputs clean PDFs  
+↳ **Event Spaces**: a platform for booking wedding and event venues
 
----
+#### `Contact Me`
 
-## About Me
+Open to remote full-time roles or contract gigs. Happy to jump into existing codebases or start something new.
 
-- Full-stack developer focused on Rails and React  
-- Comfortable owning projects end-to-end  
-- Experience working on real-world codebases  
-- I value clean code, simple solutions, and maintainability  
+I care about code that's easy to read and doesn't make the next person suffer.
 
-My day-to-day work includes **Ruby on Rails, PostgreSQL, React, Tailwind**, and deploying apps on **AWS, Heroku, Render, and Railway**.
+↳ *[alishakeel.netlify.app](https://alishakeel.netlify.app/)*  
+↳ *[LinkedIn](https://linkedin.com/in/muhammad-ali-shakeel)*  
+↳ *[muhammadalishakeel77@gmail.com](mailto:muhammadalishakeel77@gmail.com)*
 
----
+#### `Tech Stack`
 
-## Tech Stack
-
-**Backend**
-- Ruby  
-- Ruby on Rails  
-- REST APIs  
-- PostgreSQL  
-
-**Frontend**
-- React  
-- JavaScript  
-- Tailwind CSS  
-- HTML & CSS  
-
-**Tools & Cloud**
-- Git & GitHub  
-- AWS  
-- Heroku  
-- Render / Railway  
-
----
-
-## Recent Projects
-
-### FeatureFlow
-A lightweight customer feedback and product roadmap tool inspired by Canny.io.  
-Built with **Rails and React**, featuring idea submission, voting, and a simple admin dashboard.
-
-### Drafted
-A structured resume builder that generates clean, versioned PDFs from structured data.
-
-### Event Spaces Management
-A web app for browsing, listing, and booking event venues for weddings, parties, and conferences.
-
----
-
-## Open To
-
-- Remote roles  
-- Freelance or contract work  
-- Long-term collaborations  
-
-I write code that’s easy to read, easy to maintain, and easy for other developers to work with.
-
-Thanks
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
