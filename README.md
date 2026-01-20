@@ -6,7 +6,7 @@ Full-stack developer building web applications with Ruby on Rails and React JS, 
 
 ↳ **FeatureFlow**: feedback and roadmap tool like Canny.io  
 ↳ **Drafted**: resume builder that outputs clean PDFs  
-↳ **Event Spaces**: a platform for booking wedding and event venues
+↳ **Venue Hub**: a platform for booking wedding and event venues
 
 #### `Tech Stack`
 
